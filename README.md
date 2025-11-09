@@ -56,7 +56,7 @@ I explore the intersection of **creativity, code, and cognition**, crafting inte
 - `CourseResources` — Curated documentation, tools, and playlists  
 - `CourseRoadmaps` — Guided learning paths for Web Dev, Data Science, and AI  
 
-### ⚙️ **Tools Installation**
+### ⚙️ **Tools Installation and Usage**
 - Guides: `nodejs.md`, `python.md`, `vscode.md`, `git.md`  
 - *(Docker, Postman, Jupyter, Anaconda, Framework setup — coming soon)*  
 
