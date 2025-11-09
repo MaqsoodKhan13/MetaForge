@@ -96,7 +96,12 @@ I explore the intersection of **creativity, code, and cognition**, crafting inte
   <img src="https://img.shields.io/badge/AI_Systems-6C63FF?style=flat-square&logo=brain&logoColor=white"/>
 </p>
 
-**Domains:** Web Development · Data Science · Machine Learning · Deep Learning · Automation · AI Engineering · Creative Systems
+**Domains:** 
+· Web Development 
+· Data Science 
+· Machine Learning            · Deep Learning 
+· Automation                  · AI Engineering 
+· Creative Systems
 
 ---
 
